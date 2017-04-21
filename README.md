@@ -1,1 +1,1 @@
-# Fake-Amazon-Ebay-item-image-gallery
+# Fake-Amazon-ebay-item-image-gallery
